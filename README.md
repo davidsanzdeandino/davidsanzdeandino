@@ -7,7 +7,7 @@ En español: estudiante de 4.º de Ingeniería de Telecomunicación en la UC3M; 
 ## Projects
 
 - **[Nord Pool electricity price forecasting and battery (BESS) simulator](https://github.com/davidsanzdeandino/nordic-power-price-forecast)**: day-ahead price forecasts for Denmark (DK1, DK2) and Finland. MAE of 15.9–21.5 EUR/MWh on January–May 2026, 38–40% below a 24-hour persistence baseline, with the model chosen on a separate validation quarter. In Denmark, a 1 MW / 2 MWh battery dispatched on my forecasts earns 94–95% of the perfect-foresight profit (82–84% with persistence). Python, LightGBM, linear programming, Streamlit.
-- **[ProfitHustler](https://profithustler.es)**: side project I built on my own and run alongside my degree, a subscription SaaS for matched betting in Spain with more than 100 registered users. It collects odds from 33 bookmakers every 30–35 minutes, and its day-to-day running is automated. Node.js, MongoDB, Stripe, Cloudflare. The code is private.
+- **[ProfitHustler](https://profithustler.es)**: side project I built on my own and run alongside my degree, a subscription SaaS for matched betting in Spain with more than 100 registered users. It collects odds from 33 bookmakers, and its day-to-day running is automated. Node.js, MongoDB, Stripe, Cloudflare. The code is private.
 - **[Personal dashboard](https://github.com/davidsanzdeandino/personal_dashboard)**: local-first web app for finances, training, calendar and goals, with cross-device sync and Postgres row-level security. React, Vite, Supabase.
 
 ## Tools used in these projects
